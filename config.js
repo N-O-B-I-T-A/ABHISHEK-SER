@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
+  ['917384956347', 'ABHISHEK-SURESH', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['919074692450','919074692450'] 
-global.prems = ['919074692450', '919074692450', '919074692450']
+global.mods = ['917384956347','917384956347'] 
+global.prems = ['917384956347', '917384956347', '917384956347']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,20 +47,20 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = 'N-O-B-I-T-A'
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
-global.author = 'ABHISHEK SURESH' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
-global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
-global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
-global.fgyt = 'https://youtube.com/@comedymelodych8468'
+global.packname = 'N-O-B-I-T-A🎯N-O-B-I-T-A☘️' 
+global.author = 'N-O-B-I-T-A' 
+global.igfg = '▢ Follow on https://instagram.com/your_nobita_52?igshid=OGQ5ZDc2ODk2ZA=='
+global.dygp = 'https://chat.whatsapp.com/EGBCOiuJJavA7XPHt1yMIX'
+global.fgsc = 'https://Wa.me/+917384956347/?text=HLW-DARK-H-HACKING┾≛⃝♥️🐼𝄞🐣'
+global.fgyt = ''
 global.fgpyp = 'https://youtube.com/@comedymelodych8468'
 global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
 
 //imagen
-global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
-
+global.imagen1 = fs.readFileSync('https://i.imgur.com/sluvspR.jpeg')
+https:
 //Dont Edit Danger Zone⚠️
 global.wait = '*⌛ _Please Wait..._*'
 global.rwait = '⌛'
